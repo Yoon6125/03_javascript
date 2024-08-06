@@ -1,0 +1,1 @@
+document.write("<img src='눈"+(Math.floor(Math.random()*6+1))+".png'");
